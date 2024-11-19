@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/dstyle0210"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!--
 **dstyle0210/dstyle0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
